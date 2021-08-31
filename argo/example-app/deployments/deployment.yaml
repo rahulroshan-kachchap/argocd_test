@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: example-deploy
+  name: example1-deploy
   labels:
     app: example-app
   annotations:
